@@ -1,0 +1,11 @@
+*.aux
+*.log
+*.gz
+*.sty
+*.bbl
+*.blg
+*.out
+*.bst
+*.xlsx
+*.xlsm
+*.DS_Store
